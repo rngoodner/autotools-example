@@ -5,7 +5,7 @@ Also see https://www.gnu.org/software/automake/manual/html_node/Autotools-Introd
 ## Dependencies
 
 ```
-sudo apt install automake autoconf make
+sudo apt install make autoconf automake libtool
 ```
 
 ## Developer usage
